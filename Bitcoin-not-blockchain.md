@@ -1,6 +1,5 @@
 Blockchain is one component of the technology infrastructure of Bitcoin the system.
-One component not the most important component, not the most revolutionary component, in fact that technology pre-existed. In fact most of the technologies used in Bitcoin pre-existed-
-Hashes, hash trees, cryptography, public key cryptography, digital signatures, proof of work. All of these things existed before Bitcoin.
+One component, not the most important component, not the most revolutionary component. In fact that technology pre-existed. In fact most of the technologies used in Bitcoin pre-existed. Hashes, hash trees, cryptography, public key cryptography, digital signatures, proof of work. All of these things existed before Bitcoin.
 The invention is to take all of these things together and leverage proof of work as a mechanism for consensus that allows us to control a blockchain in a decentralized manner when no one has
 cultivate control over it.
 Can you build a consensus algorithm different than proof of work? Yes.
